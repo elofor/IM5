@@ -1,0 +1,106 @@
+/* Basic CSS ----------------*/
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins; 
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0px;
+    padding: 0px; 
+    font-family: poppins;
+  }
+  ul{
+    list-style: none;
+  }
+  a{
+    text-decoration: none;
+  }
+  section{
+    max-width: 2000px;
+    height: 95vh;
+    background-image:url("../weinblog_V2/illustrationen/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .topnav {
+      background-color: #ffffff;
+      overflow: hidden;
+      max-width: 2000px;
+      box-shadow: 2px 2px 12px rgab(0,0,0,0,2);
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #ababab;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #6f0200b0;
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #6f0200;
+    color: white;
+  }
+  
+  /* Right-aligned section inside the top navigation */
+  .topnav-right {
+    float: right;
+  }
+  
+  /* Ende der Navigations Bar */
+  p {
+      margin-top: 0.5em;
+      margin-bottom: 0.75em;
+      
+  }
+  
+  
+  
+  
+  /* Footer (Neu)*/
+  .page-footer {
+    position: relative;
+    padding-top: 2px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    padding-bottom: 5px;
+    width: 100%;
+    margin-top: 50px; 
+    text-align: center;
+    max-width: 2000px;
+  }
+  
+  .footer-description {
+    font-size: small;
+    text-align: center;
+  }
+  
+  footer ul, nav ul {
+    list-style: none;
+    margin: 0; 
+    padding: 0;
+    padding-top: 24px; 
+    padding-bottom: 2px; 
+    }
+  
+    footer ul li a, nav ul li a {
+    font-weight: 600;
+    padding: 16px; 
+  }
+  
+  
+  

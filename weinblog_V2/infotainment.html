@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>Infotainment | Infotainment-Blog</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <link rel="stylesheet" type="text/css" href="css/infotainment.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand&display=swap" rel="stylesheet">
+        <meta name="description" content="Willkommen auf meinem Fachblog zum Thema Infotainment. 
+            In meiner Bachelorarbeit untersuche ich, wie Weinbauern Infotainment auf Instagram nutzen, 
+            um sich als Spezialist:innen in diesem Gebiet zu positionieren. Hier halte ich meine Erkenntinsse laufend fest.">
+</head>
+<body>
+
+<!--Beginn: Top Navigation Bar-->
+    <div class="topnav">
+        <a href="index.html">Home</a>
+        <a class="active" href="infotainment.html">Infotainment</a>
+        <a href="consept.html">Guide</a>
+        <a href="videos.html">Videos</a>
+        <div class="topnav-right">
+          <a href="contact.html">Kontakt</a>
+        </div>
+      </div>
+<!--Ende: Top Navigation Bar-->
+
+<!--Beginn: Titel der Section-->
+<section id="title">
+    <!-- Heading -->
+    <div class="blog-heading">
+      <span>Infotainment ein grosses Wort</span>
+      <h2>Lass Dir die Karteikarten von allen Kategorien anzeigen oder filtere nach Stichwort!</h2>
+      <br>
+    </div>  
+  </section>
+<!--Ende: Titel der Section-->
+
+<div>
+    <br>
+    <br>
+</div>
+
+<!--Beginn: Filter Buttons Infotainment-->
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Zeige alle Kategorien</button>
+  <button class="btn" onclick="filterSelection('infotainment')"> Infotainment</button>
+  <button class="btn" onclick="filterSelection('multimedial')"> Multimediale Vielfalt</button>
+  <button class="btn" onclick="filterSelection('erfolg')"> Erfolgsfaktoren</button>
+</div>
+
+<!-- Infotainment Gallery Grid -->
+<div class="row">
+  <div class="column infotainment">
+    <div class="content">
+      <img src="images/karteikarten/infotainment-01.jpg" alt="Das ist Infotainment" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column multimedial">
+    <div class="content">
+      <img src="/images/karteikarten/multimedial-01.jpg" alt="Verschiedene Medienformate" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column erfolg">
+    <div class="content">
+      <img src="/images/karteikarten/erfolg-01.jpg" alt="Klarheit & Prägnanz" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column erfolg">
+    <div class="content">
+      <img src="/images/karteikarten/erfolg-02.jpg" alt="Engagement & Unterhaltung" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column infotainment">
+    <div class="content">
+      <img src="images/karteikarten/infotainment-03.jpg" alt="Ziel von Infotainment" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column multimedial">
+    <div class="content">
+        <img src="/images/karteikarten/multimedial-02.jpg" alt="Video oder Podcast" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column multimedial">
+    <div class="content">
+      <img src="/images/karteikarten/multimedial-03.jpg" alt="Grafiken oder interaktive Elemente" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column erfolg">
+    <div class="content">
+      <img src="/images/karteikarten/erfolg-03.jpg" alt="Anpassungsfähigkeit & Relevanz" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column infotainment">
+    <div class="content">
+      <img src="images/karteikarten/infotainment-02.jpg" alt="Das macht Infotainment" style="width:100%">
+    </div>
+  </div>
+
+<!--Ende: Filter Buttons Infotainment-->
+</div>
+
+<!-- Beginn: Footer -->
+<footer class="page-footer">
+    <ul class="mitte">
+        <li><a href="/impressum.html">Impressum</a></li>
+        <li><a href="/datenschutz.html">Datenschutz</a></li>
+    </ul>
+  <p class="footer-description">© Infotainment in der Weinbranche  |  2023</p>
+</footer>
+<!-- Ende: Footer -->
+
+<script src="script.js"></script>
+</body>
+</html>
