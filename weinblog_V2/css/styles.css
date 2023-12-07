@@ -486,3 +486,8 @@ a {
 button:hover, a:hover {
   opacity: 0.7;
 }
+
+.bildschirm {
+  height: 75vh;
+  padding: 200px 0;
+}
