@@ -27,7 +27,7 @@ Dennoch habe ich hie und da Mühe:
 Schwierigkeiten bereiteten mir mit der Zeit die verschiedenen css-Code-Schnippseln, die ich nach und nach in mein styles.css eingefügt habe und die schliessich immer wieder die vorderen Codes überschrieben haben. 
 Meine Lösung war, neue css-Dateien zu erstellen, die pro html-Seite dann separat eingebunden wurden. 
 
-Die ganze Programmierung habe ich bei mir Lokal mit dem Live-Server erstellt. Aufgrund der grosszügigen Hilfe meiner Mitstudentin, konnte mein Webprojekt schliesslich von meinem lokalen Live-Server als Unterseite auf meine Domain hochgeladen werden. Auch die ganzen pushs mit dem GitHub Desktop-App konnte ich anfangs nur dank dieser Kollegin ausführen. Merciii viiiu mau Joanne 
+Die ganze Programmierung habe ich bei mir Lokal mit dem Live-Server erstellt. Aufgrund der grosszügigen Hilfe meiner Mitstudentin, konnte mein Webprojekt schliesslich von meinem lokalen Live-Server als Unterseite auf meine Domain hochgeladen werden. Auch die ganzen pushs mit dem GitHub Desktop-App konnte ich anfangs nur dank dieser Kollegin ausführen. Merciii viiiu mau Joanne :)
 
 Alles in allem fand ich IM5 eine interessante Herausforderung, die zwar sehr zeitaufwendig und dennoch aufschlussreich war. Nun blicke ich doch mit ein wenig Stolz auf meinen Infotainment-Blog und bin froh darüber, dass ich ein cooles Webprojekt abgeben konnte. 
 
@@ -40,5 +40,5 @@ https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
 ### Bilder & Videos auf dem Blog: 
 von mir (Herbst 2022). 
 
-### Coachings: Nick Schneeberger
-![image](https://github.com/elofor/IM5/assets/122603842/a91b1b81-9707-43f3-93c7-312400b258d8)
+### Coachings: 
+Nick Schneeberger
