@@ -473,7 +473,14 @@ footer ul li {
   margin: 50 50 100 50;
   max-width: 520px;
   justify-content: center;
-  
+  height: 60vh;
+  padding: 5px 0;
+}
+
+.text-datenschutz {
+  margin: 50 50 100 50;
+  max-width: 520px;
+  justify-content: center;
 }
 
 a {

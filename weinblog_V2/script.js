@@ -1,6 +1,4 @@
-if (window.location.href === 'https://elodieforti.ch/infotainment-blog/index.html') {
-  // Führe hier deine JavaScript-Funktionen aus
-  // Beginn: js für Slideshow
+// Beginn: js für Slideshow
 let slideIndex = 1;
 showSlides(slideIndex);
 
@@ -32,14 +30,9 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 // Ende: js für Slideshow
-}
 
 
-
-if (window.location.href === 'https://elodieforti.ch/infotainment-blog/infotainment.html') {
-  // Führe hier deine JavaScript-Funktionen aus
-  // Beginn: js für Filter-Buttons-Infotainment
-  console.log ("wird ausgeführt");
+  // Beginn: js für Infotainment-Filter-Buttons
   filterSelection("all")// Execute the function and show all columns
   
   function filterSelection(c) {
@@ -88,7 +81,7 @@ if (window.location.href === 'https://elodieforti.ch/infotainment-blog/infotainm
       this.className += " active";
     });
   }
-  // Ende: js für Filter-Buttons-Infotainment
-}
+  // Ende: js für Infotainment-Filter-Buttons
+
 
 
