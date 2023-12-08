@@ -1,7 +1,6 @@
-# IM5
- <bold>IM5 Projekt: Infotainment-Blog – Elodie Forti, MMP21b</bold>
+# IM5 Projekt: Infotainment-Blog – Elodie Forti, MMP21b
 
-Ausgangslage und Ziel
+## Ausgangslage und Ziel
 Dieses Projekt entstand im Rahmen des Moduls Interaktive Medien 5, wo es darum ging, in unserem letzten IM-Semester unser ganzes IM-Wissen aus dem Studium in einem Web-Projekt anzuwenden, dass thematisch in Zusammenhang mit dem Lehrprojekt und/oder der Bachelor-Thesis steht. 
 
 In meiner Bachelorarbeit werde ich untersuchen, wie Weinbauern aus dem DACH-Raum Infotainment auf Instagram nutzen, um sich als Spezialist:innen in diesem Gebiet zu positionieren. 
@@ -9,10 +8,8 @@ In meiner Bachelorarbeit werde ich untersuchen, wie Weinbauern aus dem DACH-Raum
 Aus diesem Grund habe ich mir überlegt, einen passenden Blog zu erstellen, in dem ich laufend meine Erkenntnisse festhalten kann und so ein Nachlesewerk für Schweizer Weinbaubetriebe schaffen kann. 
 
 
-Umsetzung
+## Umsetzung
 Als erstes habe ich mich im Internet von Blogs inspirieren lassen, die mir besonders gefallen haben. Dann habe ich überlegt und skizziert, welche Elemente sich auch für meinen Infotainment-Blog eignen könnten. 
-
-Mein erster Entwurf meines Blogs sah wie folgt aus: 
 
 Früh schon stand fest, dass ich den Einstieg auf meinem Blog ansprechend und fast ausschliesslich mit Bildern gestalten möchte. Da bot sich die Image Slideshow Gallery von W3Schools besonders gut an. Diese habe ich in meine Code-Struktur integriert und zum Laufen gebracht. 
 
@@ -23,7 +20,7 @@ Die restlichen Seiten bestehen vor allem aus HTML und CSS.
 Bei der Seite «Videos» habe ich dann nebst W3School, dass ich für meine zwei Kernelemente des Webprojekts gebraucht habe, auch mal ChatGPT verwendet und feststellen dürfen, dass dies super funktioniert hat mit dem Coden und ChatGPT. 
 
 
-Learnings & Fazit
+## Learnings & Fazit
 Dank der Umsetzung dieses Webprojekts, habe ich mich nochmals intensiv mit dem Programmieren auseinandergesetzt und nochmals vieles dazugelernt und entdeckt. 
 Dennoch habe ich hie und da Mühe: 
 
@@ -35,9 +32,13 @@ Die ganze Programmierung habe ich bei mir Lokal mit dem Live-Server erstellt. Au
 Alles in allem fand ich IM5 eine interessante Herausforderung, die zwar sehr zeitaufwendig und dennoch aufschlussreich war. Nun blicke ich doch mit ein wenig Stolz auf meinen Infotainment-Blog und bin froh darüber, dass ich ein cooles Webprojekt abgeben konnte. 
 
 
-Quellen: 
+## Quellen: 
+### W3Schools:
 https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
 https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
 
-Bilder & Videos auf dem Blog: von mir (Herbst 2022). 
+### Bilder & Videos auf dem Blog: 
+von mir (Herbst 2022). 
+
+### Coachings: Nick Schneeberger
 ![image](https://github.com/elofor/IM5/assets/122603842/a91b1b81-9707-43f3-93c7-312400b258d8)
