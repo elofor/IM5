@@ -35,7 +35,7 @@ Alles in allem fand ich IM5 eine interessante Herausforderung, die zwar sehr zei
 ## Quellen: 
 ### W3Schools:
 https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
-https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
+<br> https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
 
 ### Bilder & Videos auf dem Blog: 
 von mir (Herbst 2022). 
